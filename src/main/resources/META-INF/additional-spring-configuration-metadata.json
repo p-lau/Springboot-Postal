@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "postal.usps.client-id",
+    "type": "java.lang.String",
+    "description": "Application client key"
+  },
+  {
+    "name": "postal.usps.client-secret",
+    "type": "java.lang.String",
+    "description": "Application client secret"
+  }
+]}
